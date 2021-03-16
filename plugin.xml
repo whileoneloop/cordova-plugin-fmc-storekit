@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
+        id="au.com.farmanco.ipestbook.test_products_storekit_plugin"
+        version="0.0.1">
+
+  <name>Farmanco Test iPestbook Products Storekit</name>
+
+  <engines>
+    <engine name="cordova" version=">=6.0.0"/>
+  </engines>
+
+  <platform name="ios">
+    <resource-file src="./TestiPestbookProducts.storekit" target-dir="Resources"/>
+  </platform>
+
+</plugin>

@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-fmc-storekit",
+  "version": "0.0.1",
+  "description": "Inject storekit resource file into xcode project",
+  "cordova": {
+    "id": "cordova-plugin-fmc-storekit",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whileoneloop/cordova-plugin-fmc-storekit.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "farmanco",
+    "storekit",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Tim Hart",
+  "license": "MIT"
+}
