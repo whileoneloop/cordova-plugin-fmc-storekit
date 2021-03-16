@@ -1,0 +1,67 @@
+{
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "2FFDD546",
+      "localizations" : [
+
+      ],
+      "name" : "iPestbook Subscriptions",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "99.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "FD3FBF81",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "ipestbook_full_annual",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "iPestbook Full Access - Annual ",
+          "subscriptionGroupID" : "2FFDD546",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "14.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "77AF6A09",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "ipestbook_full_monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "iPestbook Full Access - Monthly",
+          "subscriptionGroupID" : "2FFDD546",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
