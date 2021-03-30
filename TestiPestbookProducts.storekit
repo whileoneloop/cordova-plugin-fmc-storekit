@@ -56,6 +56,28 @@
           "referenceName" : "iPestbook Full Access - Monthly",
           "subscriptionGroupID" : "2FFDD546",
           "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "77AF6A10",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "ipestbook_full_1_week",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "iPestbook Full Access - Week",
+          "subscriptionGroupID" : "2FFDD546",
+          "type" : "RecurringSubscription"
         }
       ]
     }
